@@ -1,0 +1,192 @@
+*{
+    background-color: rgb(168, 230, 233);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(57, 19, 75);
+    align-items: center;
+    text-align: center;
+    text-decoration: dotted;
+}
+.box{
+    position: relative;
+    margin: auto;
+    display: block;
+    margin top: 3%;
+    width: 600px;
+    height: 430px;
+    background: none;
+}
+.cake-bottom{
+    position: absolute;
+    top: 55%;
+    left: 29%;
+    width: 42%;
+    height: 42%;
+    background-color: rgb(232, 144, 195);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base{
+    position: absolute;
+    top: 55%;
+    left: 29%;
+    width: 42%;
+    height: 42%;
+    background-color: rgb(111, 10, 69);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-1{
+    position: absolute;
+    top: 0%;
+    left: 3%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-2{
+    position: absolute;
+    top: 0%;
+    left: 13%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-3{
+    position: absolute;
+    top: 0%;
+    left: 23%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-4{
+    position: absolute;
+    top: 0%;
+    left: 33%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-5{
+    position: absolute;
+    top: 0%;
+    left: 43%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-6{
+    position: absolute;
+    top: 0%;
+    left: 53%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-7{
+    position: absolute;
+    top: 0%;
+    left: 63%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-8{
+    position: absolute;
+    top: 0%;
+    left: 73%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-9{
+    position: absolute;
+    top: 0%;
+    left: 83%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.base-line-10{
+    position: absolute;
+    top: 0%;
+    left: 93%;
+    width: 5%;
+    height: 100%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 5%;
+    clip-path: polygon(100% 0%, 82% 100%, 18% 100%, 0% 0%);
+}
+.cake-chocolate{
+    position: absolute;
+    top: 40%;
+    left: 27%;
+    width: 46%;
+    height: 27%;
+    background-color: rgb(248, 118, 194);
+    border-radius: 50%;
+}
+.wipped-cream-1{
+    position: absolute;
+    top: 37%;
+    left: 33%;
+    width: 34%;
+    height: 17%;
+    background-color: rgb(227, 94, 178);
+    border-radius: 50%;
+}
+.wipped-cream-2{
+    position: absolute;
+    top: -25%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    background-color: rgb(203, 3, 103);
+    border-radius: 50%;
+}
+.cherry{
+        position: absolute;
+        top: 25%;
+        left: 45%;
+        width: 9%;
+        height: 12%;
+        background-color: rgb(164, 19, 19);
+        border-radius: 50%;
+}
+.cherry-bullet-black{
+    position: absolute;
+    top: 25%;
+    left: 49%;
+    width: 2%;
+    height: 2%;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+}
+.cherry-top{
+    position: absolute;
+    top: 6%;
+    left: 49.5%;
+    width: 10%;
+    height: 20%;
+    background-color: none;
+    border-top-left-radius: 50%;
+    border-left: solid 5px green;
+}
